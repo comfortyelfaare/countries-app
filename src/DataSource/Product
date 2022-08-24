@@ -1,0 +1,3 @@
+const product =[
+    {name:"tecno camon 11",price:2100, image:"/image/pic (1).jps"}
+]
